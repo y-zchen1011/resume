@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc3c2b2c-cd2c-4a38-a31a-bd21773c950a" name="Default Changelist" comment="" />
+    <list default="true" id="fc3c2b2c-cd2c-4a38-a31a-bd21773c950a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/_CV.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/_CV.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/all.css.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +22,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <bower-package value="" />
     <bower.json value="" />
   </component>
   <component name="ProjectId" id="1lf43m2LoRhsdb1a6OiarLb6e8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607974616375</updated>
-      <workItem from="1607974624980" duration="4516000" />
+      <workItem from="1607974624980" duration="4669000" />
+      <workItem from="1608014390675" duration="1249000" />
     </task>
     <servers />
   </component>
@@ -70,5 +81,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1440.-56.1920.1080@0.0.1440.900" timestamp="1607974990141" />
+    <state x="558" y="245" key="svn.repositoryBrowser" timestamp="1607979354483">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="245" key="svn.repositoryBrowser/0.0.1440.900/1440.-56.1920.1080@0.0.1440.900" timestamp="1607979354483" />
   </component>
 </project>
